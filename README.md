@@ -11,8 +11,11 @@ Hi there, we are creating a management tool to help content creator to manage th
 > 2. Functions descriptions
 
   2.1 Content draft management
+  
       - allow content creators to draft their contents and ideas using templated text editing tools (google doc)
+      
       - allow content creators to access their contents production sites in one platform (eg: link to canva project, video editing project, ...)
+      
       - connect the production with drafts to track progress of each idea
     
   2.2 Upload management
