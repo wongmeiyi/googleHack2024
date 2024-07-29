@@ -9,6 +9,7 @@ Hi there, we are creating a management tool to help content creator to manage th
   - content creators struggle to manage their daily tasks, but there are no companies that target them as a market (maybe due to low return on investment)
 
 > 2. Functions descriptions
+
   2.1 Content draft management
       - allow content creators to draft their contents and ideas using templated text editing tools (google doc)
       - allow content creators to access their contents production sites in one platform (eg: link to canva project, video editing project, ...)
