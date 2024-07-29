@@ -10,7 +10,7 @@ Hi there, we are creating a management tool to help content creator to manage th
 
 > 2. Functions descriptions
 
-  2.1 Content draft management
+  2.1  Content draft management
   
       - allow content creators to draft their contents and ideas using templated text editing tools (google doc)
       
@@ -18,21 +18,30 @@ Hi there, we are creating a management tool to help content creator to manage th
       
       - connect the production with drafts to track progress of each idea
     
-  2.2 Upload management
+  2.2  Upload management
+  
       - allow content creators to post the same content on different social media platforms using one tool
+      
       - allow content creators to shedule post of contents
       
-  2.3 Performance tracking
+  2.3  Performance tracking
+  
       - allow content creators to trace the performance analysis of contents from each platform
   
-  2.4 Communication tracking
+  2.4  Communication tracking
+  
       - allow content creators to check communication histories according to sponsors and collaborators
+      
       - allow content creators to reply emails
+      
       - allow content creators to link communication histories with events created in calendar for easy modification of event details
+      
       - allow content creators to create checklist of tasks or events created in calendar for each sponsor to track progress of collaborations
     
-  2.5 Schedule management
+  2.5  Schedule management
+  
       - allow content creators to create events
+      
       - allow content creators to arrange their schedules
 
 > 3. Limitations
